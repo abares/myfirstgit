@@ -1,2 +1,3 @@
 Create 3D plot
 Load spheres into plot
+Scan through space and identify locations where a sphere exists, and where they don't
